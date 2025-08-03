@@ -25,3 +25,5 @@ const db = getFirestore(app);
 
 // Export the initialized app and database for use in other files
 export { app, db };
+
+//changed 
